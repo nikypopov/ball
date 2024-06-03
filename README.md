@@ -1,7 +1,7 @@
 # mavs or celtics?
 
 ## tech stack
-- backend: c++ (database API tbd - libpqxx[[https://github.com/jtv/libpqxx]])
+- backend: c++ (database API tbd - libpqxx[https://github.com/jtv/libpqxx])
 - frontend: unreal engine (c++)
 - databse: postgreSQL (cloud server tbd - aws, azure, google, etc)
 
