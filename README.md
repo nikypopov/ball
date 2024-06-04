@@ -3,7 +3,7 @@ mavs
 
 ## tech stack
 - backend: c++ (database API tbd - [libpqxx](https://github.com/jtv/libpqxx))
-- frontend: unreal engine (c++)
+- frontend: unreal engine (c++); if its too complicated for first version we'll use Qt
 - databse: postgreSQL (cloud server tbd - aws, azure, google, etc)
 
 ## plan overview
