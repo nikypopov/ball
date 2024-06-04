@@ -1,5 +1,6 @@
 # mavs or celtics??
 mavs
+psuhing code tomorrow, its giving errors rn and i cant figrue it out yet
 
 ## tech stack
 - backend: c++ (database API tbd - [libpqxx](https://github.com/jtv/libpqxx))
