@@ -13,6 +13,8 @@ psuhing code tomorrow, its giving errors rn and i cant figrue it out yet
   ~~- [x] unreal engine w/ vsocde integration --> local on my computer, not in repo~~
   - [ ] postgreSQL
   - [ ] flutter
+    - [x] android emulator
+    - [x] ios emulator 
 - [ ] design database schema
 - [ ] develop backend
 - [ ] design frontend
