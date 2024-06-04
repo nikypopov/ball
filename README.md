@@ -7,8 +7,8 @@ mavs
 - databse: postgreSQL (cloud server tbd - aws, azure, google, etc)
 
 ## plan overview
-- [ ] setup development environment
-  - [x] unreal engine w/ vsocde integration
+- [ ] setup development environment 
+  - [x] unreal engine w/ vsocde integration --> local on my computer, not in repo
   - [ ] postgreSQL
 - [ ] design database schema
 - [ ] develop backend
