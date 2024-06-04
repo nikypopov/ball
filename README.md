@@ -12,7 +12,7 @@ psuhing code tomorrow, its giving errors rn and i cant figrue it out yet
 - [ ] setup development environment 
   ~~- [x] unreal engine w/ vsocde integration --> local on my computer, not in repo~~
   - [ ] postgreSQL
-  - [ ] flutter
+  - [x] flutter
     - [x] android emulator
     - [x] ios emulator 
 - [ ] design database schema
