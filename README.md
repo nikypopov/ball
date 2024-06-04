@@ -1,5 +1,5 @@
 # mavs or celtics??
-i vote mavs
+mavs
 
 ## tech stack
 - backend: c++ (database API tbd - [libpqxx](https://github.com/jtv/libpqxx))
