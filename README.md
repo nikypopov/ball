@@ -1,8 +1,6 @@
 # mavs or celtics??
 mavs
 
-**see setup.md**
-
 ## tech stack
 - backend: c++ (database API tbd - [libpqxx](https://github.com/jtv/libpqxx))
 - frontend: ~~unreal engine (c++); if its too complicated for first version we'll use Qt~~ update --> flutter all in one solution, free (no royalites)
