@@ -18,7 +18,7 @@ psuhing code tomorrow, its giving errors rn and i cant figrue it out yet
 - [ ] design database schema
 - [ ] develop backend
 - [ ] design frontend
-- [ ] implement local storage feature (using unreal)
+- [ ] implement local storage feature ~~(using unreal)~~ (sqlite?)
 - [ ] front/back integration
 
 ## references
